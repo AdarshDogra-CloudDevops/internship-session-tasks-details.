@@ -188,6 +188,7 @@ Outputs: EC2 Name, ID, Public ip address of ec2 instance
 -> ENABLED PASSWORD BASED LOGIN ONLY WITHOUT KEY .
 
 **Task:**
+
 public subnet windows machine
 private subnet linux machine
 login from windows machine into linux machine using password

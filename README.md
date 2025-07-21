@@ -213,6 +213,7 @@ RDS - DID IT FROM DOCUMENTATION
  ### 18 JULY
  
 **Task:**
+
 -Connect ec2 machine with rds db mysql database first try manually and then automate everything using cft
 -Note: there should not be any public endpoint available for database
 -Connectivity between rds nd ec2 must be private

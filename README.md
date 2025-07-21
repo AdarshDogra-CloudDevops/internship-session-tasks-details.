@@ -192,3 +192,33 @@ Outputs: EC2 Name, ID, Public ip address of ec2 instance
 -public subnet windows machine.
 -private subnet linux machine.
 -login from windows machine into linux machine using password.
+
+
+### 16 JULY 
+
+ **Task:**
+create a aws cft which satisfy below conditions:
+ 
+-Take input from the user regarding OS he wants to deploy
+-If user chooses windows then it should only deploy windows server 2022 base image with IIS role installed and should host any webpage from 60+ Free HTML Website Templates Responsive & Mobile Ready
+-If user chooses linux then it should only deploy linux machine with apache/httpd installed and should host any webpage from 60+ Free HTML Website Templates - Responsive & Mobile Ready
+-If user chooses both then it should deploy both the machine with respective server role installed and should host any webpage from 60+ Free HTML Website Templates - Responsive & Mobile Ready
+-CFT should work in us-east-1, us-east-2 region.
+
+
+ ### 17 JULY
+ 
+RDS - DID IT FROM DOCUMENTATION
+
+ ### 18 JULY
+ 
+**Task:**
+-Connect ec2 machine with rds db mysql database first try manually and then automate everything using cft
+-Note: there should not be any public endpoint available for database
+-Connectivity between rds nd ec2 must be private
+
+## WEEK -5 [21/07/2025 — 27/07/2025]
+
+ ### 21 JULY
+
+ 

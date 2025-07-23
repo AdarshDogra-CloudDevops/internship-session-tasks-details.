@@ -222,4 +222,19 @@ RDS - DID IT FROM DOCUMENTATION
 
  ### 21 JULY
 
+Manually create - ECS Cluster, Task definition, service to host simple hello world application
  
+After that do everything cft
+ 
+Host docker image on docker hub
+
+
+### 22 JULY
+
+REVISION FOR THE ASSESMENT
+
+### 23 JULY
+
+AWS IAM SESSION
+     +TASK
+     

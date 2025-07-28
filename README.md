@@ -236,5 +236,22 @@ REVISION FOR THE ASSESMENT
 ### 23 JULY
 
 AWS IAM SESSION
-     +TASK
      
+### 24 JULY
+
+IAM -Session
+-permission boundary
+**Task:** 
+Create an IAM Policy which allows s3 bucket list, create, put objects permissions but denies everything apart from that, allows access to ec2 services in us-east-1, us-east-2 also he should be able to create, start, stop instances and delete the instances.
+
+### 25 JULY
+
+**ASSESMENT**
++ IAM Connect
+
+## WEEK -6 [28/07/2025 — 03/08/2025]
+
+### 28 JULY
+
+
+### 29 JULY

@@ -253,5 +253,41 @@ Create an IAM Policy which allows s3 bucket list, create, put objects permission
 
 ### 28 JULY
 
+**Task:**  S3
+ 
+Bucket policy enforce - to deny access to user - test user
+Enable static website - Host any simple website
+Replication rules - Enable replication and try out how it works
 
 ### 29 JULY
+
+**Task:** AWS LABS ASSIGNED COMPLETED THEM
+
+### 30 JULY
+
+**Task:** AZURE LABS ASSIGNED COMPLETED THEM
+  
+
+### 31 JULY
+
+Session on azure introductory.
+
+### 1 AUGUST
+
+Session on azure IAM + SUBSCRIPTIONS.
+
+## WEEK -7 [04/08/2025 — 10/08/2025 ]
+
+### 4 AUGUST
+
+Asked to do pending labs of azure
+
+### 5 AUGUST
+
+### 6 AUGUST
+
+
+### 7 AUGUST
+
+
+### 8 AUGUST

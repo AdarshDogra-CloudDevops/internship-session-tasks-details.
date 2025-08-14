@@ -284,10 +284,56 @@ Asked to do pending labs of azure
 
 ### 5 AUGUST
 
+**Task:** 
+Using ARM template Deploy a Linux VM and use the Custom Script Extension to install and configure a web server  like Apache and it should be accessable over web  with only http port
+
 ### 6 AUGUST
 
+**Task:** 
+Using an ARM template, deploy an Ubuntu virtual machine (VM) and configure the following:
+Use the Custom Script Extension to install Visual Studio Code, Chromium, Docker, and Network Miner.
+Enable automatic shutdown of the VM 5 minutes after startup
 
 ### 7 AUGUST
 
+**Task:** 
+Install VSCode, Chromium, Docker.io, Network Miner -> Wireshark. Configure XRDP and create a new non-root user for OS login (do not use the root user). Disable UFW rules, disable root login, and schedule an automatic shutdown after 15 minutes.
 
 ### 8 AUGUST
+
+**Task:**
+Create an ARM template for a Windows VM, 
+Install VS Code on the desktop
+shortcut for Azure portal on desktop
+Attach a new, empty data disk with a size of 32 GB to the Windows virtual machine.
+
+## WEEK -8 [11/08/2025 — 17/08/2025 ]
+
+### 11 AUGUST
+
+**Task:**
+Using an ARM template, deploy the following resources:
+A new VNet with one subnet for VMs and a separate AzureBastionSubnet for Bastion.
+One Windows Server 2022 VM (no public IP) in the VM subnet.
+Azure Bastion in the Bastion subnet to allow RDP into the VM via the Azure portal.
+Install Azure Storage Explorer on the VM using Custom Script Extension.
+Place a text file named credentials.txt on the Desktop with the content with the VM's credentials inside them for e.g:
+Admin Username = "Adminuser"
+Password = "Password0123!"
+Make sure that the Password is not hardcoded and gets generated while you deploy the arm template.
+
+### 12 AUGUST
+
+**Task:**
+Deploy a virtual machine (VM) and an Azure storage account. Create a custom script extension (CSE) that downloads a file from the storage account — you will manually upload this file.
+Configure the download script to run in a loop every 30 seconds, retrying the download even if it fails, using a secondary script as a task scheduler on the VM. Additionally, 
+configure Azure Log Analytics for the storage account so you can monitor and view the file download activity from the VM through Log Analytics.
+
+
+### 13 AUGUST
+
+WORKED ON THE SAME TASK THAT WAS ASSIGNED ON 12TH.
+
+
+### 14 AUGUST
+

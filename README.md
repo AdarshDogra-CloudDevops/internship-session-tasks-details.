@@ -274,7 +274,7 @@ Session on azure introductory.
 
 ### 1 AUGUST
 
-Session on azure IAM + SUBSCRIPTIONS.
+Session on azure IAM + SUBSCRIPTIONS + ENTRA-ID + SCOPES.
 
 ## WEEK -7 [04/08/2025 — 10/08/2025 ]
 

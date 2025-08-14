@@ -337,3 +337,5 @@ WORKED ON THE SAME TASK THAT WAS ASSIGNED ON 12TH.
 
 ### 14 AUGUST
 
+**Task:**
+Create an Azure Compute Gallery, capture an image of an existing virtual machine (VM)—using both generalized and specialized states—and deploy a new VM from that image. Ensure to run Sysprep on the VM prior to capturing a generalized image. Figure out how the process for capturing specialized versus generalized images works.

@@ -339,3 +339,19 @@ WORKED ON THE SAME TASK THAT WAS ASSIGNED ON 12TH.
 
 **Task:**
 Create an Azure Compute Gallery, capture an image of an existing virtual machine (VM)—using both generalized and specialized states—and deploy a new VM from that image. Ensure to run Sysprep on the VM prior to capturing a generalized image. Figure out how the process for capturing specialized versus generalized images works.
+-try to deploy vm using the ARM template both generalized and specialized.
+
+
+## WEEK -9 [18/08/2025 — 24/08/2025 ]
+
+### 18 AUGUST
+
+**Task:**
+Create a policy that prevents users from deleting a specific virtual network in Azure (identified by a unique deployment ID), while still allowing them to delete any other virtual networks within the same resource group.
+
+
+### 19 AUGUST
+
+
+### 20 AUGUST
+

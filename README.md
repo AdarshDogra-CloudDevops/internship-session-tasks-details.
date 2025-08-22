@@ -352,6 +352,17 @@ Create a policy that prevents users from deleting a specific virtual network in 
 
 ### 19 AUGUST
 
+worked on the same task og policy made some changes after connecting.
 
 ### 20 AUGUST
 
+**Task:**
+Hyper V - widnows server 2019 2022 2025 
+Try to installl hyper v role on vm and then create guest vm -- guest vm should have internet connectivity.
+
+### 21 AUGUST
+
+-PIM
+resolved the issue in the HYPER-V task.
+
+### 22 AUGUST

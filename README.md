@@ -363,6 +363,7 @@ Try to installl hyper v role on vm and then create guest vm -- guest vm should h
 ### 21 AUGUST
 
 -PIM
+
 resolved the issue in the HYPER-V task.
 
 ### 22 AUGUST

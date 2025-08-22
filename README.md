@@ -352,7 +352,7 @@ Create a policy that prevents users from deleting a specific virtual network in 
 
 ### 19 AUGUST
 
-worked on the same task og policy made some changes after connecting.
+worked on the same task of policy made some changes after connecting.
 
 ### 20 AUGUST
 

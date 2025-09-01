@@ -367,3 +367,52 @@ Try to installl hyper v role on vm and then create guest vm -- guest vm should h
 resolved the issue in the HYPER-V task.
 
 ### 22 AUGUST
+
+ Networking concepts.
+ DNS , DORA , APIPA
+ Routers.
+
+ ## WEEK -10 [25/08/2025 — 31/08/2025 ]
+
+### 25 AUGUST
+
+ Self Revision of old concepts
+ No connect.
+
+ ### 26 AUGUST
+
+Session on CloudLabs.
+Basics.
+
+### 27 AUGUST
+
+Cloudlabs Task 1:
+Create a template and ODL in cloudlabs, ARM template should create a VM with other required resources and a storage account with a container
+users env page should have not have cloud credentials and it should have VM details like ip address, dns, VM users creds and url of container in storage account.
+A file should be uploaded to the blob container via Arm template.
+
+### 28 AUGUST
+
+{ON-LEAVE}
+
+### 29 AUGUST
+
+Cloudlabs Task - 2                                                                                                                                                           Edge browser shortcut for az-portal, VS Code shortcut, and PowerShell 7 available. Also require the GUIDs of guest VMs (Ubuntu and Windows VMs created in Hyper-V) to be visible in the CloudLabs output section. This should work when deploying through the custom image.
+
+ ## WEEK -11 [01/09/2025 — 07/09/2025 ]
+
+ ### 01 SEPTEMBER
+
+ 
+
+### 02 SEPTEMBER
+
+
+### 03 SEPTEMBER
+
+
+### 04 SEPTEMBER
+
+
+### 05 SEPTEMBER
+ 

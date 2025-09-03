@@ -403,13 +403,18 @@ Cloudlabs Task - 2                                                              
 
  ### 01 SEPTEMBER
 
- 
+Cloudlabs Task - 3
+enabling rdp over http for the azure windows and linux instances.
 
 ### 02 SEPTEMBER
 
+**Task:** 
+creating a validation script to validate resources in the azure like strg acct , location, containers, blobs etc.
 
 ### 03 SEPTEMBER
 
+**Task:**
+create a validation script to validate the commands in centos os vm that they ran checking their status via ps validation.
 
 ### 04 SEPTEMBER
 

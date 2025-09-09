@@ -414,10 +414,38 @@ creating a validation script to validate resources in the azure like strg acct ,
 ### 03 SEPTEMBER
 
 **Task:**
-create a validation script to validate the commands in centos os vm that they ran checking their status via ps validation.
+
+create a validation script to validate the commands ran by the user  in centos  vm  via ps validation.
+
+- M.Af. : Assessement taken on aws .
 
 ### 04 SEPTEMBER
 
-
-### 05 SEPTEMBER
+**Task:**
+validation script error fixed and re assigned to try same for window os . 
  
+### 05 SEPTEMBER
+
+**Task:**
+Create a lab guide for a user on aws .
+
+
+ ## WEEK -11 [08/09/2025 — 14/09/2025 ]
+
+ ### 08 SEPTEMBER
+
+Assesment rescheduled 
+
+Wokred on the CFT to make a lab on aws as per labguide.
+
+ ### 09 SEPTEMBER
+
+
+
+ ### 10 SEPTEMBER
+
+
+ ### 11 SEPTEMBER
+
+
+ ### 12 SEPTEMBER

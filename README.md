@@ -440,6 +440,9 @@ Wokred on the CFT to make a lab on aws as per labguide.
 
  ### 09 SEPTEMBER
 
+Assessment: 
+1.policy created at subs level to deploy vm of particular sku,s checking its overriding conditions wrt to owner role on subs.
+2.deployed a kali linux installed chrome in it and used te template in cloudlabs.
 
 
  ### 10 SEPTEMBER

@@ -446,6 +446,7 @@ Assessment: 1.policy created at subs level to deploy vm of particular sku,s chec
 
  ### 10 SEPTEMBER
 
+Self study : fixed previuos template versions.
 
  ### 11 SEPTEMBER
 

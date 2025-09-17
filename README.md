@@ -450,5 +450,36 @@ Self study : fixed previuos template versions.
 
  ### 11 SEPTEMBER
 
+Self study : fixed previuos template versions.
 
  ### 12 SEPTEMBER
+ 
+**Assesment task assigned:**
+
+Task:
+Create a lab with a lab guide, a validation script, and a deployment script.  
+The user will receive a pre-deployed VM from CloudLabs. Inside the VM, there will be a text file containing the Azure username, password, Directory (Tenant) ID, and Subscription ID. This text file will be generated using the deployment script. Make sure no cloud credentials are sent directly through the CloudLabs portal.  
+ 
+Lab flow:  
+- The user will retrieve credentials from the text file generated on the VM.  
+- Using these credentials, the user will log in to the Azure portal via a pre-configured shortcut created during pre-deployment.  
+- The user will then build a Docker image hosting an Apache server, customizing it to return a "Hello World" response.  
+- Next, the user will create an Azure Container Registry and push the Docker image to it.  
+- Finally, the user will use the provided DNS to verify accessibility of the hosted image.
+
+## WEEK -12 [15/09/2025 — 21/09/2025 ]
+
+### 15 SEPTEMBER
+
+worked on task assigned.
+
+### 16 SEPTEMBER
+
+worked on task assigned.
+
+### 17 SEPTEMBER
+
+worked on task assigned.
+
+### 18 SEPTEMBER
+

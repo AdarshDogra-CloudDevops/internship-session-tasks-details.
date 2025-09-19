@@ -483,3 +483,9 @@ worked on task assigned.
 
 ### 18 SEPTEMBER
 
+Fixed the cloudlabs script error in same task.
+
+### 19 SEPTEMBER
+
+Task reviewed
+
